@@ -133,4 +133,4 @@ GitHub: [Vic-Godwin](https://github.com/Vic-Godwin)
 ---
 
 ## 🌟 Love this tool?
-Star ⭐ the repo and [explore the full VictorCompress project here →]├── (https://github.com/Vic-Godwin/VictorCompress)
+Star ⭐ the repo and [explore the full VictorCompress project here →](https://github.com/Vic-Godwin/VictorCompress)
