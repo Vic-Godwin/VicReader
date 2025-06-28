@@ -1,0 +1,11 @@
+# External dependency
+ttkbootstrap>=1.10.1
+
+# Built-in modules (no installation needed, listed for documentation purposes)
+# tk
+# zlib
+# base64
+# re
+# os
+# sys
+# time
