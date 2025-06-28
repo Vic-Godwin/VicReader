@@ -6,9 +6,9 @@ VicReader is an efficient, self-contained analysis tool for only .txt files — 
 ![image](https://github.com/user-attachments/assets/01086612-166d-4d11-8acb-fa01eb7763b4)
 
 
-**Smart, Searchable File Reader & Text Extractor Companion for VictorCompress**
+**Smart, Searchable File Reader & Text Extractor Companion for [VictorCompress](https://github.com/Vic-Godwin/VictorCompress)**
 
-VicReader is a lightweight but powerful file analysis and viewer tool that works alongside [VictorCompress](README.md). It allows you to read, search, and extract patterns like emails, phone numbers, dates, and file statistics from `.txt` files — including those decompressed by VictorCompress.
+VicReader is a lightweight but powerful file analysis and viewer tool that works alongside [VictorCompress](https://github.com/Vic-Godwin/VictorCompress/README.md). It allows you to read, search, and extract patterns like emails, phone numbers, dates, and file statistics from `.txt` files — including those decompressed by VictorCompress.
 
 ---
 
@@ -44,7 +44,7 @@ This module uses:
 ```txt
 Python >= 3.7
 Standard Libraries: tkinter, re, os, base64, zlib, sys, time
-External: None (except ttk for styling)
+External: None (except ttk for styling) if you're proficient in it, but i didn't use it for the VicReader
 ```
 
 ---
@@ -61,7 +61,7 @@ python vic_file_reader.py
 ### 🔹 Convert a File (Compress/Decompress)
 1. Choose an action from the dropdown ("COMPRESS" or "DECOMPRESS")
 2. Click the **Convert** button
-3. The file is saved automatically as `outputfile.txt` or reloaded for viewing. Then click readfile to view
+3. The file is saved automatically as `compress_outputfile.txt or decompress_output.txt`. Then click readfile to reload view
 
 ```python
 # Example of manual compression using compress_module
@@ -108,7 +108,7 @@ Date 2: 2024-10-13
 ## 📁 Project Tree Update
 
 ```
-├── vic_file_reader.py         # ← This file (VicReader)
+├── vic_file_reader.py         # ←SECOND VERSION This file (VicReader)
 ├── compress_module.py         # Compression engine
 ├── victor_logo_64x64.ico
 ├── victor_logo_64x64.png
@@ -133,4 +133,4 @@ GitHub: [Vic-Godwin](https://github.com/Vic-Godwin)
 ---
 
 ## 🌟 Love this tool?
-Star ⭐ the repo and [explore the full VictorCompress project here →](Vic-Godwib/VictorCompress)
+Star ⭐ the repo and [explore the full VictorCompress project here →]├── (https://github.com/Vic-Godwin/VictorCompress)
